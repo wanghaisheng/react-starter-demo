@@ -1,7 +1,7 @@
 import React from 'react'
 import { Button, ButtonProps,Input } from "@mui/joy";
 
-import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/mui/joy"
+import { Tabs, TabsContent, TabsList, TabsTrigger } from "@mui/joy"
 
 export default function LandingPage() {
   return (
