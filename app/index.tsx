@@ -2,7 +2,7 @@ import React from 'react'
 import { Button, ButtonProps,Input } from "@mui/joy";
 
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@mui/joy"
-
+// ?
 export default function LandingPage() {
   return (
     <div className="bg-[#f5f0e8] min-h-screen font-serif">
